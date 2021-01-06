@@ -5,7 +5,7 @@ A plugin to magnify image in a seperated section.
 
 ### Example
 
-<iframe width="100%" height="300" src="//jsfiddle.net/akash007/s9dqxcn8/6/embedded/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+<a href="https://jsfiddle.net/akash007/s9dqxcn8/6/" target="_blank">Visit Js Fiddle</a>
 
 ### Adding HTML
 
