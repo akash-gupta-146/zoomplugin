@@ -15,9 +15,11 @@ const zoomImage = (e)=>{
         "width":"600px",
         "height":"250px",
         "top":"0px",
-        "z-index":"99999"
+        "z-index":"99999",
+        "border":"1px solid white",
     }
 
+		$target.style.cursor = 'zoom-in'
     $zoomed.style.background = `url(${$largeImgURL})`;
     $zoomed.style.left = Number(e.target.width+20)  + 'px';
     $zoomed.id = '_zoomedImage__';
