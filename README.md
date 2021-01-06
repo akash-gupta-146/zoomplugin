@@ -3,6 +3,10 @@ A plugin to magnify image in a seperated section.
 
 ## How to use
 
+### Example
+
+<iframe width="100%" height="300" src="//jsfiddle.net/akash007/s9dqxcn8/6/embedded/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+
 ### Adding HTML
 
 ```html
