@@ -16,8 +16,11 @@ A plugin to magnify image in a seperated section.
 ```
 
 An image element is required along with an independent parent element and below attributes
+
   a. **class** : a unique class names **_zoom__datasource__** is to be added
+  
   b. **data-large** : a dataset as data-large is to be added. Value of data-large will be the source path to large image
+  
   c. **src** : path to small size image
   
 ### Adding Javascript
