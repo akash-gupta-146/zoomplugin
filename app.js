@@ -1,6 +1,6 @@
 (function(){
 
-let target = document.querySelectorAll('._zoom__datasource__');
+let target = document.querySelectorAll('._zoom__datasource__'); //target thumbnail or image with required src and data
 
 const zoomImage = (e)=>{
 
