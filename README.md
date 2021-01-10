@@ -1,7 +1,7 @@
 # zoomplugin
 A plugin to magnify image in a seperated section.
 
-## Example
+## Demo
 
 <a href="https://jsfiddle.net/akash007/s9dqxcn8/6/" target="_blank">Visit Js Fiddle</a>
 
